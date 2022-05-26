@@ -1,2 +1,1 @@
-Los nombres de las carpetas tienen que coincidir
-CAMBIO 2
+Los nombres de las carpetas tienen que coincidir para puder pushear sin errores

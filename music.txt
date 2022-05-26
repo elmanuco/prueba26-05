@@ -1,1 +1,5 @@
 https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=aec69af8029644c3
+varios temas
+la bersuit
+abuelos de la nada
+rm -rf .git
