@@ -1,2 +1,2 @@
-CAMBIOS
+Los nombres de las carpetas tienen que coincidir
 CAMBIO 2
