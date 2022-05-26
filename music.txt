@@ -1,0 +1,4 @@
+varios temas
+la bersuit
+abuelos de la nada
+rm -rf .git
